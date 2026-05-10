@@ -1,6 +1,6 @@
 ﻿---
 name: cache-optimizer
-description: Use when user mentions "token优化", "节省Token", "省点钱", "优化成本", "cache", "缓存优化", or when conversation becomes long (>5 rounds) and needs context compression. Also use when user explicitly says "cache-optimizer" or "缓存优化器".
+description: Use in every conversation to optimize token usage, reduce costs, and improve response efficiency. Applies to all scenarios including coding, Q&A, document processing, and general chat. Also trigger when user mentions "token优化", "节省Token", "省点钱", "优化成本", "cache", "缓存优化", "cache-optimizer", "缓存优化器".
 ---
 
 # 缓存优化器（Cache Optimizer）
